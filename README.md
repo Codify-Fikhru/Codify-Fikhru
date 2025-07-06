@@ -22,7 +22,7 @@ I'm a passionate Informatics Engineering student and a self-taught web developer
 📫 **How to reach me**  
 - Instagram: [@fikru_05](https://www.instagram.com/fikru_05/)  
 - GitHub: [Codify-Fikhru](https://github.com/Codify-Fikhru)  
-- Email: *[tambahkan email kamu di sini]*  
+- Email: jokiofficialyt@gmail.com  
 
 ---
 
