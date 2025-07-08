@@ -1,131 +1,224 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hi there, I'm Fikhru Maulana
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Passionate+Informatics+Engineering+Student;Self-Taught+Web+Developer;Building+Dreams+One+Code+at+a+Time;Based+in+Makassar%2C+Indonesia+🇮🇩" alt="Typing SVG" />
-</div>
-
----
-
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-- 🎓 Currently studying at **Universitas Dipa Makassar**
-- 🧑‍💻 I enjoy building **websites** and designing **user interfaces**
-- 📸 I also love **content creation** and **visual branding**
-- 🌱 I'm currently learning **Kotlin**, **Android Studio**, **Vue**, **Svelte**
-- 💬 Ask me about **React**, **JavaScript**, **Web Development**
-- ⚡ Fun fact: I dream of sending my parents to **Umrah** 🕌
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend & Database
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-### Tools & Platforms
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-### Currently Learning
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Codify-Fikhru&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Codify-Fikhru&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Fikhru%20Maulana&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Codify-Fikhru&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=🚀+Full+Stack+Developer;🎓+Informatics+Engineering+Student;💻+Building+Digital+Experiences;🌟+Self-Taught+Web+Developer;📍+Based+in+Makassar%2C+Indonesia" alt="Typing SVG" />
 </div>
 
----
-
-## 🔥 Contribution Graph
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Codify-Fikhru&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Codify-Fikhru&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Codify-Fikhru/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Codify-Fikhru&repo=project1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Codify-Fikhru/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Codify-Fikhru&repo=project2&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fikru_05/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Codify-Fikhru)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jokiofficialyt@gmail.com)
-
-</div>
-
----
-
-## 🎯 Goals & Dreams
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Building+my+skills+step+by+step;To+make+my+parents'+Umrah+dream+come+true;Creating+meaningful+digital+experiences;Never+stop+learning+and+growing" alt="Goals Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Codify-Fikhru&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <h2>🌟 About Me</h2>
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🎯 **Who Am I?**
+- 🎓 **Student** at Universitas Dipa Makassar
+- 💻 **Passionate** about web development & UI/UX
+- 🎨 **Creative** content creator & visual designer
+- 🚀 **Always** learning cutting-edge technologies
+- 🕌 **Dream**: Send my parents to Umrah
+
+### 🔥 **Current Focus**
+- 📱 Mobile Development with **Kotlin**
+- ⚡ Modern Frontend with **Vue & Svelte**
+- 🎨 Advanced UI/UX Design
+- 🌐 Full-Stack Web Applications
+
+</td>
+<td width="50%">
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation"/>
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+  <h2>🛠️ Tech Arsenal</h2>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+        <br><strong>Frontend</strong>
+      </td>
+      <td align="center" width="200">
+        <img src="https://skillicons.dev/icons?i=supabase,firebase,nodejs,express,mongodb" />
+        <br><strong>Backend</strong>
+      </td>
+      <td align="center" width="200">
+        <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,canva" />
+        <br><strong>Tools</strong>
+      </td>
+      <td align="center" width="200">
+        <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,vue,svelte,python" />
+        <br><strong>Learning</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
 
 ---
 
 <div align="center">
-  <h3>💖 Thank you for visiting my profile! 💖</h3>
-  <p><em>May Allah bless our journey in coding and life! 🤲</em></p>
+  <h2>📊 GitHub Analytics</h2>
+  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd7-a1e5-6bf8041d0645.gif" width="100">
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Codify-Fikhru&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codify-Fikhru&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Codify-Fikhru&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Codify-Fikhru&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+<div align="center">
+  <h2>🏆 Achievements</h2>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Codify-Fikhru&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Codify-Fikhru&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff" alt="Wakatime Stats" />
+</div>
+
+---
+
+<div align="center">
+  <h2>🌟 Featured Projects</h2>
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d42b-4505-b985-38bc0187d2b8.gif" width="100">
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/Codify-Fikhru/project1">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Codify-Fikhru&repo=project1&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&icon_color=00D4FF" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/Codify-Fikhru/project2">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Codify-Fikhru&repo=project2&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&icon_color=00D4FF" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <h2>🎯 Goals & Vision</h2>
+  <img src="https://user-images.githubusercontent.com/74038190/212284175-acc7d229-8014-4950-b0d2-8007a7a6e8b4.gif" width="100">
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=💼+Building+my+career+as+a+Full+Stack+Developer;🕌+Making+my+parents'+Umrah+dream+come+true;🌟+Creating+meaningful+digital+experiences;🚀+Contributing+to+open+source+community;📱+Mastering+mobile+app+development;🎨+Designing+user-friendly+interfaces;🌍+Building+solutions+that+impact+lives;💡+Never+stop+learning+and+growing" alt="Goals Typing SVG" />
+</div>
+
+---
+
+<div align="center">
+  <h2>🌐 Connect With Me</h2>
+  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99112b45f1df.gif" width="100">
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://www.instagram.com/fikru_05/">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Codify-Fikhru">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:jokiofficialyt@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://linkedin.com/in/fikhru-maulana">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <h2>📈 Profile Analytics</h2>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Codify-Fikhru&label=Profile%20Views&color=00D4FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Codify-Fikhru?label=Followers&style=for-the-badge&color=00D4FF" alt="Followers" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+</div>
+
+<div align="center">
+  <h2>💝 Thank You for Visiting!</h2>
+  <p><em>✨ May Allah bless our journey in coding and life! 🤲</em></p>
+  <p><strong>🌟 "Code with passion, create with purpose!" 🌟</strong></p>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&animation=twinkling" />
 </div>
 
 <!--
